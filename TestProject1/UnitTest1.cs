@@ -1,9 +1,11 @@
 using NUnit.Framework;
+using OpenQA.Selenium;
 
 namespace TestProject1
 {
     public class Tests
     {
+        IWebDriver driver;
         [SetUp]
         public void Setup()
         {

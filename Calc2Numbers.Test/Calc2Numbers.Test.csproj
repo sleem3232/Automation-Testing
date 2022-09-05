@@ -15,6 +15,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CalcNumbers\CalcNumbers.csproj" />
+    <ProjectReference Include="..\LambdaTest\LambdaTest.csproj" />
+    <ProjectReference Include="..\Selenium\Selenium.csproj" />
+    <ProjectReference Include="..\TestProject1\TestProject1.csproj" />
+    <ProjectReference Include="..\TestProject5\TestProject5.csproj" />
+    <ProjectReference Include="..\TestProject6\TestProject6.csproj" />
   </ItemGroup>
 
 </Project>
